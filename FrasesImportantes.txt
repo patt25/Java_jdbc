@@ -1,0 +1,4 @@
+Frase 1
+----------------------------------------
+Si no sabes Git, estas es desventaja.
+
